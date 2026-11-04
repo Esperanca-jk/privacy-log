@@ -1,0 +1,17 @@
+{
+  "name": "privacy-log",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Redact common sensitive values from logs with a local CLI",
+  "bin": {
+    "privacy-log": "./src/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

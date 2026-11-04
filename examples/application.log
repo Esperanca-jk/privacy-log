@@ -1,0 +1,4 @@
+2026-11-05T10:00:00Z status=200 elapsed=20ms
+2026-11-05T10:01:00Z user=test@example.com phone=+905321234567
+2026-11-05T10:02:00Z Authorization: Bearer abc.def.ghi
+2026-11-05T10:03:00Z api_key=example-secret password="not-a-real-password"

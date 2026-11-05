@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cover.svg" alt="privacy-log project overview" width="100%"></p>
+
 # privacy-log
 
 A tiny, dependency-free local log redactor. Removes common secret assignments, Authorization credentials, email addresses, and international-format phone numbers before sharing diagnostic logs.
@@ -35,3 +37,8 @@ No dependencies, remote requests, persistence, or GitHub Actions workflows. Suit
 Add a redacted fixture and a regression test for each new pattern. Never open issues with real secrets. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 [MIT License](LICENSE).
+
+
+---
+
+**Related tool:** [cron-sentinel](https://github.com/Esperanca-jk/cron-sentinel) — monitor scheduled-job health.
